@@ -21,7 +21,7 @@ tests_require = [
 
 setup(
     name="hackercafe",
-    version='1.0.0',
+    version='1.0.1',
     description='Python client for HackerCafe',
     url='https://www.hackerearth.com',
     author='Sreeram Boyapati',

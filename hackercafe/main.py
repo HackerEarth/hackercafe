@@ -12,16 +12,16 @@ import uuid
 DEFAULT_MSG_TEMPLATE = """
 No Options Given
 Use the following options:
-    1. order - To order an item in the menu
-    2. menu  - To list the menu
+    order - To order an item in the menu
+    menu  - To list the menu
 """
 
 
 INCORRECT_MSG_TEMPLATE = """
 Incorrect Option Given
 Use the following options:
-    1. order - To order an item in the menu
-    2. menu  - To list the menu
+    order - To order an item in the menu
+    menu  - To list the menu
 """
 
 INCORRECT_ITEM_TEMPLATE = """
@@ -29,15 +29,15 @@ Incorrect Item Given
 Following products are available in HackerCafe:
     Item Code - Item Name
     -----------------------
-    1. HBC  - Bit Coffee
-    2. HBYC - Byte Coffee
-    3. HDS  - Dijkstra Sandwich
-    4. HBP  - Babbage Pasta
-    5. HTC  - Time Capsule
-    6. HJSN - XML Salad
-    7. HCB  - Chill Bill
-    8. HZB  - Zuck-Burg
-    9. HAJ  - Aj-eggs
+    HBC  - Bit Coffee
+    HBYC - Byte Coffee
+    HDS  - Dijkstra Sandwich
+    HBP  - Babbage Pasta
+    HTC  - Time Capsule
+    HJSN - XML Salad
+    HCB  - Chill Bill
+    HZB  - Zuck-Burg
+    HAJ  - Aj-eggs
 """
 
 NO_ITEMS_TEMPLATE = """
@@ -45,15 +45,15 @@ No Item Given
 Following products are available in HackerCafe:
     Item Code - Item Name
     -----------------------
-    1. HBC  - Bit Coffee
-    2. HBYC - Byte Coffee
-    3. HDS  - Dijkstra Sandwich
-    4. HBP  - Babbage Pasta
-    5. HTC  - Time Capsule
-    6. HJSN - XML Salad
-    7. HCB  - Chill Bill
-    8. HZB  - Zuck-Burg
-    9. HAJ  - Aj-eggs
+    HBC  - Bit Coffee
+    HBYC - Byte Coffee
+    HDS  - Dijkstra Sandwich
+    HBP  - Babbage Pasta
+    HTC  - Time Capsule
+    HJSN - XML Salad
+    HCB  - Chill Bill
+    HZB  - Zuck-Burg
+    HAJ  - Aj-eggs
 """
 
 AVAILABLE_CODES = [
@@ -77,22 +77,25 @@ better and faster. The food at HackerCafe is low-carb, high on protein
 with right amount of Aspartic & Glutamic acid. It is the result of 3 years
 of research by the best nutritionists in the world.
 
+Example:
+    `hackercafe order HBC` -  to order bit coffee
+
 Available Commands:
-    1. menu - List the menu and item codes to order.
-    2. order - To order the item and send it to our servers
+    menu - List the menu and item codes to order.
+    order - To order the item and send it to our servers
 
 Available Foods:
     Item Name - Item Code
     ----------------------
-    1. Bit Coffee (8 beans of pure, intense coffee flavour)          - HBC
-    2. Byte Coffee (16 beans with steamed milk & deep layer of foam) - HBYC
-    3. Dijkstra Sandwich (Shortest sandwich)                         - HDS
-    4. Babbage Pasta (Father of the pasta)                           - HBP
-    5. Time capsule (Keeps you awake till whenever you want)         - HTC
-    6. XML Salad (Messed-up salad)                                   - HJSN
-    7. Aj-eggs (The refreshing omlette)                              - HAJ
-    8. Chill Bill (Opens your mind windows)                          - HCB
-    9. Zuck-Burg (The social burger)                                 - HZB
+    HBC  - Bit Coffee (8 beans of pure, intense coffee flavour)
+    HBYC - Byte Coffee (16 beans with steamed milk & deep layer of foam)
+    HDS  - Dijkstra Sandwich (Shortest sandwich)
+    HBP  - Babbage Pasta (Father of the pasta)
+    HTC  - Time capsule (Keeps you awake till whenever you want)
+    HJSN - XML Salad (Messed-up salad)
+    HAJ  - Aj-eggs (The refreshing omlette)
+    HCB  - Chill Bill (Opens your mind windows)
+    HZB  - Zuck-Burg (The social burger)
 """
 
 
