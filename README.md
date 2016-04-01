@@ -1,5 +1,5 @@
 # HackerCafe
-HackerCafe is a place for hackers, by hackers, from HackerEarth Inc.
+[HackerCafe](https://cafe.hackerearth.com/) is a place for hackers, by hackers, from HackerEarth Inc.
 
 Hackers want easy access to the internet and an environment they love.
 They want food which allows them to be awake at night and helps code
@@ -13,7 +13,7 @@ of research by the best nutritionists in the world.
 
 Available Foods:
 
-    **Item Name**                                                    - **Item Code**
+    Item Name                                                        - Item Code
 
     1. Bit Coffee (8 beans of pure, intense coffee flavour)          - HBC
     2. Byte Coffee (16 beans with steamed milk & deep layer of foam) - HBYC
