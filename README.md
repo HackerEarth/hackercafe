@@ -45,3 +45,8 @@ hackercafe order <item_code>
 
 Example:
 ```hackercafe order HZB``` to order Zuck-Burg.
+
+### Need help
+```
+hackercafe help
+```
