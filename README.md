@@ -1,7 +1,7 @@
 # HackerCafe
 [HackerCafe](https://cafe.hackerearth.com/) is a place for hackers, by hackers, from HackerEarth Inc.
 
-Hackers want easy access to the internet and an environment they love.
+Hackers want easy access to the internet and the environment they love.
 They want food which allows them to be awake at night and helps code
 better and faster. The food at HackerCafe is low-carb, high on protein
 with right amount of Aspartic & Glutamic acid. It is the result of 3 years
